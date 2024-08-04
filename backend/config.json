@@ -1,0 +1,7 @@
+
+{
+    "GOOGLE_SEARCH_API_KEY": "AIzaSyCzvUyrt9P_UxnTmc8BAa_-8cL4hUJm4AM",
+    "GOOGLE_SEARCH_ENGINE_ID": "12cdbb5f393014fd9",
+    "GROQ_API_KEY": "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",
+    "DOMAINS_ALLOW": ["http://localhost:3000"]
+}
