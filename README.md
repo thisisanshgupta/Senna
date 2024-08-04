@@ -46,8 +46,9 @@ To run Senna locally, follow these steps:
    ```bash
    npm install
    ```
-
-4. **Run the Application**:
+4. **Add your Groq and Google Credentials in /backend/config.json file.**
+  
+6. **Run the Application**:
 
    ```bash
    npm start
