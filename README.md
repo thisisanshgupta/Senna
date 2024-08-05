@@ -32,7 +32,7 @@ To run Senna locally, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/senna.git
+   git clone https://github.com/thisisanshgupta/senna.git
    ```
 
 2. **Navigate to the Project Directory**:
