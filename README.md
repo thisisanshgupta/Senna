@@ -1,7 +1,9 @@
 # Senna
+# UPDATING SOON!
 Senna is an AI-powered search engine designed to provide users with accurate and relevant information quickly, similar to platforms like You.com and Perplexity. Leveraging advanced natural language processing techniques, Senna aggregates data from various online sources to deliver comprehensive answers to user queries.
 
-![Senna](senna_ss.png)
+![Senna Home Page](home-page.png)
+![Senna Search Results Page](search-results.png)
 
 ## Features
 
