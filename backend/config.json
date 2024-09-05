@@ -1,7 +1,0 @@
-
-{
-    "GOOGLE_SEARCH_API_KEY": "YOUR-API-KEY",
-    "GOOGLE_SEARCH_ENGINE_ID": "YOUR-API-KEY",
-    "GROQ_API_KEY": "YOUR-API-KEY",
-    "DOMAINS_ALLOW": ["http://localhost:3000"]
-}
